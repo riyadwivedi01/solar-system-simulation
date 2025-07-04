@@ -24,7 +24,5 @@ This is a **3D Solar System Simulation** built using [Three.js](https://threejs.
 - JavaScript (ES6)
 - [Three.js](https://threejs.org/) for 3D rendering
 
----
 
-## 🗂 Folder Structure
 
